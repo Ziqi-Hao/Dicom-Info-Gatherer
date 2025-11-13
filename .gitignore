@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# PyInstaller
+*.manifest
+*.spec
+release/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# DICOM Processing Output
+*_CSV/
+*_nii/
+*_summary.csv
+
+# Test files
+test_*.py
+check_*.py
+debug_*.py
+compare_*.py
+explore_*.py
+search_*.py
+apply_*.py
+*.sh
+
+# Temporary files
+*.log
+*.tmp
+tmp/
+temp/
+
+BUILD_GUIDE.md
+CHANGELOG.md
+GIT_COMMIT_GUIDE.md
+QUICK_START.md
+_RELEASE_READY.md
+build_windows.bat

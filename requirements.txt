@@ -1,0 +1,12 @@
+# DICOM Info Gatherer - Python Dependencies
+
+# Core DICOM processing
+pydicom>=2.3.0
+
+# Data analysis and CSV handling
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Modern GUI (optional, fallback to tkinter if unavailable)
+customtkinter>=5.0.0
+
