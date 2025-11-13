@@ -61,10 +61,3 @@ apply_*.py
 *.tmp
 tmp/
 temp/
-
-BUILD_GUIDE.md
-CHANGELOG.md
-GIT_COMMIT_GUIDE.md
-QUICK_START.md
-_RELEASE_READY.md
-build_windows.bat
